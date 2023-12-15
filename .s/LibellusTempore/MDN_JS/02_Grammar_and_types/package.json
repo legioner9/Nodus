@@ -1,0 +1,14 @@
+{
+  "name": "02_grammar_and_types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0 copy 2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ndb": "^1.1.5"
+  }
+}
